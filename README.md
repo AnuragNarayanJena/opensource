@@ -1,0 +1,2 @@
+# opensource
+open to all
